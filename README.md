@@ -1,5 +1,7 @@
 # ToDoList Native Expo
 
+![Aperçu de l'application](./assets/screen_readme.png)
+
 ## Description du Projet
 
 Ce projet est une application de liste de tâches développée avec Native Expo. Elle permet aux utilisateurs de créer, gérer et suivre leurs tâches quotidiennes de manière simple et efficace. Fonctionnelle sur iOS et Android.
